@@ -1,9 +1,4 @@
 ﻿/*
-*********************************************
-*  314 Principles of Programming Languages  *
-*  Fall 2016                                *
-*********************************************
-*
 *   Read a real (non-complex) sparse matrix from a Matrix Market (v. 2.0) file
 *   and a vector from a txt file, perform matrix multiplication and store the
 *   result to output.txt. 
